@@ -1,0 +1,14 @@
+{
+  "name": "csv2json",
+  "version": "1.0.0",
+  "description": "script to convert csv file to json file",
+  "main": "csv2json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manufosela",
+  "license": "MIT",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
